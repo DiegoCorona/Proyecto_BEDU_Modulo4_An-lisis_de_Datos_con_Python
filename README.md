@@ -1,4 +1,11 @@
-# Proyecto_BEDU_Modulo4_Análisis_de_Datos_con_Python
+# Proyecto_BEDU_Modulo4_Análisis_de_Datos_con_Python.
+
+El presente proyecto fue realizado por:
+
+* [Carlos Sebastián Madrigal Rodríguez.](https://github.com/panchis7u7)
+* [Diego Armando Morales Corona.](https://github.com/DiegoCorona)
+* [Carlos Rodríguez Tenorio.](https://github.com/carlostnorio)
+* [José David Vázquez Rojas.](https://github.com/davidvrj)
 
 En el proyecto anterior [(Modelo de predicción de ejercicios con mancuernas)](https://github.com/DiegoCorona/Proyecto-BEDU-Procesamiento-de-datos-con-Python), se planteó la realización de un modelo con el cual, dados valores de sensores, se pudieran predecir si un ejercicio con mancuerna se realizaba de manera correcta o se cometía alguno de los errores más comunes.
 
