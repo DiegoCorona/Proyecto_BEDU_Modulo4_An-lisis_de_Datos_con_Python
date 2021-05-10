@@ -23,10 +23,10 @@ De esta forma se busca conocer cómo es conveniente posicionar la aplicación m�
 
 El presente proyecto busca estudiar la actualidad del mercado de las aplicaciones web, construir un modelo de predicción del nivel de éxito de una aplicación Web y, dado esto, estudiar el impacto de nuevas Apps en el mercado dadas sus características.
 
-## **Rasultados:**
+## **Resultados:**
 
 Script y desarrollo: [Análisis de datos con Python](https://github.com/DiegoCorona/Proyecto_BEDU_Modulo4_An-lisis_de_Datos_con_Python/blob/main/Proyecto_Modulo4_An%C3%A1lisis_de_Datos_con_Python.ipynb)
 
 Nuestro vídeo se encuentra en la siguiente liga: 
 
-Los datasets utilizados se encuentran en los documentos adjuntos. 
+Los datasets utilizados se encuentran en los documentos adjuntos.
