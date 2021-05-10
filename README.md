@@ -27,6 +27,8 @@ El presente proyecto busca estudiar la actualidad del mercado de las aplicacione
 
 Script y desarrollo: [Análisis de datos con Python](https://github.com/DiegoCorona/Proyecto_BEDU_Modulo4_An-lisis_de_Datos_con_Python/blob/main/Proyecto_Modulo4_An%C3%A1lisis_de_Datos_con_Python.ipynb)
 
-Nuestro vídeo se encuentra en la siguiente liga: 
+Nuestro vídeo se encuentra en la siguiente liga: https://youtu.be/5UNoletCS0Q
 
 Los datasets utilizados se encuentran en los documentos adjuntos.
+
+ 
